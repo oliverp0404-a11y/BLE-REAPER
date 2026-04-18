@@ -25,16 +25,4 @@ A Bluetooth Low Energy penetration testing and security assessment tool built fo
 ## 🚀 Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/BLE_REAPER.git
-cd BLE_REAPER
-
-# Install system dependencies
-sudo apt-get update
-sudo apt-get install -y bluetooth bluez python3-pip
-
-# Install Python requirements
-pip3 install -r requirements.txt
-
-# Make the script executable
-chmod +x main.py
+git clone https://github.com/oliverp0404-a11y/BLE-REAPER.git && cd BLE-REAPER/BLE_REAPER && sudo apt-get update && sudo apt-get install -y bluetooth bluez python3-pip && pip3 install -r requirements.txt && chmod +x main.py
